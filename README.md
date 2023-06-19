@@ -16,10 +16,8 @@ Here's how to get this project running on your local machine for development and
 
 1. **Clone the Repository**
 
-    \```bash
     git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
     cd YOUR_REPOSITORY
-    \```
 
 2. **Install Dependencies**
 

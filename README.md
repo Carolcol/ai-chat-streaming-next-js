@@ -39,7 +39,7 @@ Here's how to get this project running on your local machine for development and
     npm run dev
 
 
-Now, open [http://localhost:3000](http://localhost:3000) in your browser to see the result. Happy hacking!
+Now, open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
 
 
 ## Acknowledgments

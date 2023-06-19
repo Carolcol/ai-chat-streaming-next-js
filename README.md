@@ -24,25 +24,22 @@ Here's how to get this project running on your local machine for development and
 2. **Install Dependencies**
 
     Run the following command in your terminal:
-
-    \```bash
+    
     npm install
-    \```
 
 3. **Setup Environment Variables**
 
     Create a `.env.local` file in the root directory of your project. Add the following line to your file:
 
-    \```bash
     OPENAI_API_KEY=yourapikey
-    \```
+    
     Replace `yourapikey` with your actual OpenAI API key. This is necessary for the SDK to be able to interact with the OpenAI API.
 
 4. **Start the Development Server**
 
-    \```bash
+
     npm run dev
-    \```
+
 
 Now, open [http://localhost:3000](http://localhost:3000) in your browser to see the result. Happy hacking!
 
